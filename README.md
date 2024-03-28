@@ -61,16 +61,16 @@ You can directly [click this anchor link](#advanced) to go the advanced topic.
 
 ### Media Queries   
 - [Media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)  
-> [`→ exercise 08`](08.MEDIA-QUERIES.md)
+- [`→ exercise 08`](08.MEDIA-QUERIES.md)
 ---
 ### Final project ?
-- [Ex 09 : First final project](09.CSS-final-project.md)
+- [`→ Ex 09 : First final project`](09.CSS-final-project.md)
 ---   
 ### Modify elements
 - [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
 - [Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 - [CSS Animations](https://web.dev/learn/css/animations)    
-> [`→ exercise 10`](10-TrAnsimations.md)
+- [`→ exercise 10`](10-TrAnsimations.md)
 ---
 ### Functions
 - [CSS Functions](https://css-tricks.com/complete-guide-to-css-functions/)  
