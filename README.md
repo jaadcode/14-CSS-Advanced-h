@@ -31,6 +31,7 @@ We continue our journey to mastering CSS with the advanced topic.
 ---
 
 ### OPTIONAL ↓                                                                                                                               
+- - [Style SVG](https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/#:~:text=How%20to%20Style%20SVG%20Images)
 - [CSS Custom variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) 
 - [BEM](https://css-tricks.com/bem-101/)                  
 
