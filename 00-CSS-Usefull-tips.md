@@ -1,5 +1,19 @@
 # CSS - Usefull tips
 
+### Reset.css
+
+The first steps of a project concerning the CSS should be to add a reset.css file.
+This will reset all the default styling of browsers. So you begin with a completely clean set up. 
+
+Here an example : https://piccalil.li/blog/a-more-modern-css-reset/
+
+
+---
+
+### Zoom - DeZoom
+
+To test the responsiveness of a page, it's common to use the dev tools and it's great. But an another test you should use is the zoom and dezoom of your browser. 
+
 ---
 
 ### Containers

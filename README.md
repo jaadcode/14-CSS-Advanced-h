@@ -15,8 +15,8 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)  
 - [`→ exercise 08`](08-MEDIA-QUERIES.md)
 ---
-### Final project ?
-- [`→ Ex 09 : Web 3.0`](09-CSS-Web3-project.md)
+### Web 3.0 project
+- [`→ **Assignment** Ex 09 : Web 3.0`](https://classroom.github.com/a/8fMl3IN0)
 ---   
 ### Modify elements
 - [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
@@ -33,7 +33,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 ---
 
 ### OPTIONAL ↓                                                                                                                               
-- - [Style SVG](https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/#:~:text=How%20to%20Style%20SVG%20Images)
+- [Style SVG](https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/#:~:text=How%20to%20Style%20SVG%20Images)
 - [CSS Custom variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) 
 - [BEM](https://css-tricks.com/bem-101/)                  
 
