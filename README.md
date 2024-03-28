@@ -22,11 +22,9 @@ You can directly [click this anchor link](#advanced) to go the advanced topic.
 - [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) 
 - [Class - ID Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
 - [Attributes Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors) 
-> `→ exercise 01 `
 ---
 ### Units & sizes
 - [Units and sizes](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
-> `→ exercise 02`
 ---
 ### Styling text     
 - [Text and fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) 
@@ -41,24 +39,19 @@ You can directly [click this anchor link](#advanced) to go the advanced topic.
 - [Pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 --- 
 ### The Box Model
-- [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-> `→ exercise 03 `    
+- [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)   
 ---       
 ### Display & positioning elements
 - [Center elements](https://css-tricks.com/centering-css-complete-guide/)         
 - [Display properties](https://cssreference.io/property/display/)  
 - [Positions](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)                
 - [Floats (the old way)](https://css-tricks.com/all-about-floats/) 
-> `→ exercise 04 `
 ---
 ### FLEX
 - [FLEX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
-> `→ theory 05 `
-> `→ exercise 06 `
 ---
 ### GRID    
 - [GRID](https://css-tricks.com/snippets/css/complete-guide-grid/) 
-> `→ exercise 07`
 ---
 ### Images      
 - [Image Styling](https://kinsta.com/blog/css-image-styling/) 
