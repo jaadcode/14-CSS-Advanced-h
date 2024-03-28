@@ -7,14 +7,16 @@ Hello again !!! Welcome back to the CSS track, but now the advanced part !!!
 
 We continue our journey to mastering CSS with the advanced topic.
 
+But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
+
 ## Advanced
 
 ### Media Queries   
 - [Media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)  
-- [`→ exercise 08`](08.MEDIA-QUERIES.md)
+- [`→ exercise 08`](08-MEDIA-QUERIES.md)
 ---
 ### Final project ?
-- [`→ Ex 09 : First final project`](09.CSS-final-project.md)
+- [`→ Ex 09 : Web 3.0`](09-CSS-Web3-project.md)
 ---   
 ### Modify elements
 - [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
