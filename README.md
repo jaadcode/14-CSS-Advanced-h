@@ -30,6 +30,9 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 ### Sass
 - [Sass](11-SASS.md)
 
+### FINAL PROJECT
+- [`→ **Assignment** Ex 10 : Scoot`]()
+
 ---
 
 ### OPTIONAL ↓                                                                                                                               
