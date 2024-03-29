@@ -31,7 +31,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Sass](11-SASS.md)
 
 ### FINAL PROJECT
-- [`→ **Assignment** Ex 10 : Scoot`]()
+- [`→ **Assignment** Ex 10 : Scoot`](https://classroom.github.com/a/vIBH75zU)
 
 ---
 
@@ -39,7 +39,3 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Style SVG](https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/#:~:text=How%20to%20Style%20SVG%20Images)
 - [CSS Custom variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) 
 - [BEM](https://css-tricks.com/bem-101/)                  
-
----
-
-With this solid foundation, we will tackle some big sites later on [Frontend Mentor](https://www.frontendmentor.io/challenges).

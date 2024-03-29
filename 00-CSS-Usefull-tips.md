@@ -7,7 +7,6 @@ This will reset all the default styling of browsers. So you begin with a complet
 
 Here an example : https://piccalil.li/blog/a-more-modern-css-reset/
 
-
 ---
 
 ### Zoom - DeZoom
@@ -57,3 +56,9 @@ object-fit: cover; // or contain
 Try for yourself !
 
 ---
+
+### Position relative
+
+When you set an element in relative, it will be displayed in front of the others elements. 
+
+If you want that the following elements go in front of this relative element, set the following element in relative too. 
