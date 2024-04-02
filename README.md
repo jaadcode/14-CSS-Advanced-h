@@ -31,7 +31,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Sass](11-SASS.md)
 
 ### FINAL PROJECT
-- [`→ **Assignment** Ex 10 : Scoot`](https://classroom.github.com/a/vIBH75zU)
+- [`→ **Assignment** Ex 10 : Scoot`]()
 
 ---
 
