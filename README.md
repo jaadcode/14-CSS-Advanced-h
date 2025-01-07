@@ -15,7 +15,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Media queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)  
 - [`→ exercise 08`](08-MEDIA-QUERIES.md)
 
-### Web 3.0 project
+### Solo project: Web 3.0
 - [`→ **Assignment** Ex 09 : Web 3.0`](https://classroom.github.com/a/8fMl3IN0)
  
 ### Modify elements
