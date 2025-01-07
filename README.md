@@ -31,7 +31,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Sass](11-SASS.md)
 
 ### FINAL PROJECT
-- [`→ **Assignment** Ex 10 : Scoot`]() Not available yet
+- [`→ **Assignment** Ex 11 : Scoot`]() Not available yet
 
 ---
 
