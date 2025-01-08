@@ -16,7 +16,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [`→ exercise 08`](08-MEDIA-QUERIES.md)
 
 ### Solo project: Web 3.0
-- [`→ **Assignment** Ex 09 : Web 3.0`](https://classroom.github.com/a/8fMl3IN0)
+- [`→ **Assignment** Ex 09 : Web 3.0`]() Not available yet
  
 ### Modify elements
 - [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
