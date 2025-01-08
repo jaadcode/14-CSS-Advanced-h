@@ -16,7 +16,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [`→ exercise 08`](08-MEDIA-QUERIES.md)
 
 ### Solo project: Web 3.0
-- [`→ **Assignment** Ex 09 : Web 3.0`]() Not available yet
+- Go back to Moodle to have the assignement: **CSS: 03 - Web 3.0**
  
 ### Modify elements
 - [Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform) 
@@ -31,7 +31,7 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Sass](11-SASS.md)
 
 ### FINAL PROJECT
-- [`→ **Assignment** Ex 11 : Scoot`]() Not available yet
+- Go back to Moodle to have the challenge: **CSS: 04 - Scoot project**
 
 ---
 
