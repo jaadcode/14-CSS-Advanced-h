@@ -53,6 +53,17 @@ Have you tried to set a width and a height to an image just to realize the image
 object-fit: cover; // or contain
 ```
 
+- Image container:
+
+Personally, I like to sourrounded my `img` with a special container. I give an height to this container and the image can fit in it. 
+And so, the img is 100% height.
+
+```html
+<div class="img-container">
+  <img class="img" />
+</div>
+```
+
 Try for yourself !
 
 ---
@@ -62,3 +73,9 @@ Try for yourself !
 When you set an element in relative, it will be displayed in front of the others elements. 
 
 If you want that the following elements go in front of this relative element, set the following element in relative too. 
+
+---
+
+### Padding, margin
+
+Never 
