@@ -76,6 +76,6 @@ If you want that the following elements go in front of this relative element, se
 
 ---
 
-### Padding, margin
+### Margin
 
-Never 
+If you want to give space to a serie fo blocks, it's better to use a margin-bottom than a margin-top. 
