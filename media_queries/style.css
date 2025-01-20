@@ -1,0 +1,41 @@
+h2 {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  
+  body 
+
+  h2.a {
+    display: block;
+    background-color: gold;
+  } 
+}
+
+@media (min-width: 768px) and (max-width: 1280px) {
+  .b {
+    display: block;
+    background-color: pink;
+  }
+}
+
+@media (min-width: 1280px) and (max-width: 1440px) {
+  .c {
+    display: block;
+    background-color: chocolate;
+  }
+}
+
+@media (min-width: 1440px) and (max-width: 1920px) {
+  .d {
+    display: block;
+    background-color: cadetblue;
+  }
+}
+
+@media (min-width: 1920px) {
+  .e {
+    display: block;
+    background-color: cornflowerblue;
+  }
+}
